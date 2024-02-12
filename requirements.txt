@@ -7,4 +7,6 @@ uvicorn
 black
 wikipedia
 ipdb
+httpx
+geopy
 git+https://github.com/LIAAD/yake
