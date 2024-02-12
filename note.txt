@@ -1,0 +1,12 @@
+create virtualenvironments 
+
+virtualenv ~/.venv 
+source ~/.venv/bin/activate
+
+vim ~/.bashrc
+source ~/.venv/bin/activate
+
+Esc after
+:wq and enter
+
+
