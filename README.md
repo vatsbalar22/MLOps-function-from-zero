@@ -1,3 +1,5 @@
+[![CI](https://github.com/vatsbalar22/function-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/vatsbalar22/function-from-zero/actions/workflows/main.yml)
+
 [![Codespaces Prebuilds](https://github.com/vatsbalar22/function-from-zero/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg)](https://github.com/vatsbalar22/function-from-zero/actions/workflows/codespaces/create_codespaces_prebuilds)
 
 # function-from-zero
